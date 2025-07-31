@@ -135,7 +135,7 @@
 
 <Nav />
 
-<Hero { ...hero } centered />
+<Hero { ...hero } centered imageSrc="https://images.unsplash.com/photo-1581093588401-16c9cbd58d03?q=80&w=1920&auto=format&fit=crop" />
 
 <LogoScroller label="trusted by teams like yours" layout="horizontal" {logoUrls} />
 
