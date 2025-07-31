@@ -110,9 +110,7 @@
 			{#if centered}
 				<p
 					data-enter
-					class=[
-						"text-headline mx-auto block max-w-[60ch] text-white/70 transition duration-500 ease-out"
-					]
+					class="text-headline mx-auto block max-w-[60ch] text-white/70 transition duration-500 ease-out"
 				>
 					{subtitle}
 				</p>
